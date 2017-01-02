@@ -7,4 +7,3 @@
  */
 
 echo "hi";
-echo "bye";
